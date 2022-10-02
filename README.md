@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hosseindarab
-- 👀 I’m interested in Node.js, REST API and JavaSCript.
+- 👀 I’m interested in Node.js, REST API and JavaScript.
 - 🌱 I’m currently learning Node RED.
 - 💞️ I’m looking to collaborate on REST API projects.
 - 📫 How to reach me -->
